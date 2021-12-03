@@ -1,0 +1,15 @@
+E:\FileDetails\A_工作项目\A_DataHandler\CodeCollection\DBConvertSQL\bin\Debug\DBConvertSQL.exe.config
+E:\FileDetails\A_工作项目\A_DataHandler\CodeCollection\DBConvertSQL\bin\Debug\DBConvertSQL.exe
+E:\FileDetails\A_工作项目\A_DataHandler\CodeCollection\DBConvertSQL\bin\Debug\DBConvertSQL.pdb
+E:\FileDetails\A_工作项目\A_DataHandler\CodeCollection\DBConvertSQL\obj\Debug\DBConvertSQL.App.resources
+E:\FileDetails\A_工作项目\A_DataHandler\CodeCollection\DBConvertSQL\obj\Debug\DBConvertSQL.Properties.Resources.resources
+E:\FileDetails\A_工作项目\A_DataHandler\CodeCollection\DBConvertSQL\obj\Debug\DBConvertSQL.csproj.GenerateResource.cache
+E:\FileDetails\A_工作项目\A_DataHandler\CodeCollection\DBConvertSQL\obj\Debug\DBConvertSQL.csproj.CoreCompileInputs.cache
+E:\FileDetails\A_工作项目\A_DataHandler\CodeCollection\DBConvertSQL\obj\Debug\DBConvertSQL.exe
+E:\FileDetails\A_工作项目\A_DataHandler\CodeCollection\DBConvertSQL\obj\Debug\DBConvertSQL.pdb
+E:\FileDetails\A_工作项目\A_DataHandler\CodeCollection\DBConvertSQL\bin\Debug\Newtonsoft.Json.dll
+E:\FileDetails\A_工作项目\A_DataHandler\CodeCollection\DBConvertSQL\bin\Debug\Newtonsoft.Json.xml
+E:\FileDetails\A_工作项目\A_DataHandler\CodeCollection\DBConvertSQL\obj\Debug\DBConvertSQL.csproj.CopyComplete
+E:\FileDetails\A_工作项目\A_DataHandler\CodeCollection\DBConvertSQL\bin\Debug\HanderStruct\DBTypeMapping\MappingForDM8.json
+E:\FileDetails\A_工作项目\A_DataHandler\CodeCollection\DBConvertSQL\bin\Debug\HanderStruct\DBTypeMapping\MappingForKINGBASEESV8.json
+E:\FileDetails\A_工作项目\A_DataHandler\CodeCollection\DBConvertSQL\bin\Debug\HanderStruct\DBTypeMapping\MappingForPOSTGRESQL.json

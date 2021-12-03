@@ -1,0 +1,58 @@
+[
+  {
+    "sourceType": "bigint",
+    "isSourceLength": false,
+    "targetType": "int8",
+    "targetLength": 0,
+    "isTargetLength": false
+  },
+  {
+    "sourceType": "varchar",
+    "isSourceLength": true,
+    "targetType": "varchar",
+    "targetLength": 255,
+    "isTargetLength": true
+  },
+  {
+    "sourceType": "int",
+    "isSourceLength": false,
+    "targetType": "int4",
+    "targetLength": 0,
+    "isTargetLength": false
+  },
+  {
+    "sourceType": "datetime",
+    "isSourceLength": false,
+    "targetType": "timestamp",
+    "targetLength": 6,
+    "isTargetLength": true
+  },
+  {
+    "sourceType": "text",
+    "isSourceLength": false,
+    "targetType": "text",
+    "targetLength": 0,
+    "isTargetLength": false
+  },
+  {
+    "sourceType": "json",
+    "isSourceLength": false,
+    "targetType": "json",
+    "targetLength": 0,
+    "isTargetLength": false
+  },
+  {
+    "sourceType": "decimal",
+    "isSourceLength": true,
+    "targetType": "numeric",
+    "targetLength": "6,2",
+    "isTargetLength": true
+  },
+  {
+    "sourceType": "binary",
+    "isSourceLength": true,
+    "targetType": "bytea",
+    "targetLength": 0,
+    "isTargetLength": false
+  }
+]
